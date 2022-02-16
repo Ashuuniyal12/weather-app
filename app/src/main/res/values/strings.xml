@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="icon_of_app">icon of app</string>
+    <string name="weather">Weather</string>
+    <string name="location">Location</string>
+    <string name="updated_at">Updated at</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="todo">TODO</string>
+    <string name="ashutosh">Ashutosh</string>
+    <string name="created_by">Created By</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="sunrise_image">weather information image</string>
+    <string name="sunset">Sunset</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
